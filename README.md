@@ -1,2 +1,2 @@
 # PythonForManagers
-Files required for Praxis Course
+Data and code for the exercises given in this textbook
